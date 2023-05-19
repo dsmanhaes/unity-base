@@ -12,6 +12,7 @@
 /[Uu]serSettings/
 /[Aa]rs/
 /_res/
+/_cache/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
